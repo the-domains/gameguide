@@ -1,0 +1,28 @@
+name: GameGuide
+favicon: null
+layout_spectrum: 0.9632433792576194
+typography_spectrum: 0.42861089925281703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1517694538924843
+  lightness: 0.30155060696415603
+  saturation: 0.15929493587464094
+  rhythmicContrast: 0.7262732479721308
+purpose: []
